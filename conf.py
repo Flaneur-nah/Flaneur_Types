@@ -14,40 +14,40 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "杳然拱廊中"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+author = "Flaneur"
+email = "18503044960@163.com"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "吾本乘兴而起，兴尽而归，何必见戴。"
+key_words = ['Flaneur', '杳然', '写字', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "写作值得",
+        "url": "https://matters.news/@Han_nah",
+        "brief": "在 Matters 写一些计划公开、期待回应的字。"
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "语言失地",
+        "url": "https://hannahtranslate.typlog.io/",
+        "brief": "科学哲学设计译文集合。"
     }
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "首页 HOME",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "归档 ARCHIVE",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "关于 ABOUT",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "",
         "icon": "gi gi-weibo"
     }
 ]
