@@ -10,7 +10,7 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "<hanna1122>/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "<Flaneur-nah>/Flaneur_Types@gh-pages"
 }
 
 # 站点设置
