@@ -15,7 +15,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "杳然拱廊中"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}fn logotype.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Flaneur"
 email = "18503044960@163.com"
