@@ -3,14 +3,14 @@
 """
 
 # For Maverick
-site_prefix = "/FlaneurTypes/"
+site_prefix = "/Flaneur_Types/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "<Flaneur-nah>/Flaneur_Types@gh-pages"
+    "repo": "<Flaneur-nah>/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
